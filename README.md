@@ -1,6 +1,6 @@
 # B-world
-Master studying examples
+Master studying examples.
 
 I will study some git commands.
 
-Test for merge, added from study branch
+Test for merging, added from study branch.
