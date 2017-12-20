@@ -68,8 +68,7 @@ int main()
   
                 }  
                 close(temp_sock_descriptor);  
-  
-  
+
         }  
   
 }
